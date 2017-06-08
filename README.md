@@ -2,7 +2,7 @@
 
 Utilities for less tolerant Clojure service configuration maps.
 
-> This library builds heavily on the [strictly](https://github.com/ctford/strictly).
+> This library builds heavily on [strictly](https://github.com/ctford/strictly).
 
 ## Background
 
