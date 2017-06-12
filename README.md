@@ -20,7 +20,7 @@ This library helps expose missing configuration attributes by failing fast
 If you want to use it, include it in your `project.clj` file to download it
 from Clojars:
 
-    [strict-config "0.1.0-SNAPSHOT"]
+    [strict-config "0.1.0"]
 
 Apply the `strict` function from the `map` namespace to create a map that
 throws an Exception if a key that does not exist is retrieved. This is in
